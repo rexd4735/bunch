@@ -1,0 +1,88 @@
+export const bundles = [
+  // HOME
+  {
+    id: "slow-sunday",
+    category: "Home",
+    name: "The Slow Sunday",
+    originalPrice: 80,
+    price: 64,
+    image: "/img/zara2.jpg",
+    description: "A gentle collection for unhurried mornings at home.",
+  },
+  {
+    id: "home-comfort",
+    category: "Home",
+    name: "Home Comfort",
+    originalPrice: 80,
+    price: 58,
+    image: "/img/zara3.jpg",
+    description: "Soft details for a calmer everyday space.",
+  },
+  {
+    id: "morning-ritual",
+    category: "Home",
+    name: "Morning Ritual",
+    originalPrice: 80,
+    price: 52,
+    image: "/img/zara1.webp",
+    description: "A beautiful start to the day.",
+  },
+
+  // GIFTING
+  {
+    id: "little-luxuries",
+    category: "Gifting",
+    name: "Little Luxuries",
+    originalPrice: 80,
+    price: 48,
+    image: "/img/zara3.jpg",
+    description: "A thoughtful gift for someone special.",
+  },
+  {
+    id: "with-love",
+    category: "Gifting",
+    name: "With Love",
+    originalPrice: 80,
+    price: 68,
+    image: "/img/zara2.jpg",
+    description: "A graceful bundle for celebrations.",
+  },
+  {
+    id: "just-because",
+    category: "Gifting",
+    name: "Just Because",
+    originalPrice: 80,
+    price: 42,
+    image: "/img/zara1.webp",
+    description: "A small gesture with a big feeling.",
+  },
+
+  // WELLNESS
+  {
+    id: "soft-reset",
+    category: "Wellness",
+    name: "The Soft Reset",
+    originalPrice: 80,
+    price: 72,
+    image: "/img/zara1.webp",
+    description: "A considered pause for body and mind.",
+  },
+  {
+    id: "slow-evening",
+    category: "Wellness",
+    name: "Slow Evening",
+    originalPrice: 80,
+    price: 56,
+    image: "/img/zara2.jpg",
+    description: "Wind down with quiet little comforts.",
+  },
+  {
+    id: "take-a-breath",
+    category: "Wellness",
+    name: "Take a Breath",
+    originalPrice: 80,
+    price: 60,
+    image: "/img/zara3.jpg",
+    description: "A gentle reset for your routine.",
+  },
+];
